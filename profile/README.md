@@ -2,7 +2,7 @@
 
 <img height="30" src="https://github.com/pose-picker/.github/assets/75469131/87357edf-8a99-4d4e-88ce-afb48752e45e"/> <br/>
 ---
-*다음 포즈 뭐하지? PosePicker가 포즈 고민을 해결해 드릴게요!*
+*다음 포즈 뭐하지? 포즈피커가 포즈 고민을 해결해 드릴게요!*
 
 <br/>
 
