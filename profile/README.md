@@ -1,18 +1,18 @@
 <img align="left" width="150" src="https://github.com/pose-picker/.github/assets/75469131/8e67e03e-c157-4ab9-8c60-7b1e1c15bee3" />
 
-# PosePicker 🪄
-
+<img height="30" src="https://github.com/pose-picker/.github/assets/75469131/87357edf-8a99-4d4e-88ce-afb48752e45e"/> <br/>
+---
 *다음 포즈 뭐하지? PosePicker가 포즈 고민을 해결해 드릴게요!*
 
 <br/>
 
-> 네컷사진 찍을 때면 늘 포즈가 고민되시지 않나요? 🧐 <br/>
-PosePicker가 포즈 고민을 해결해 드릴게요! 📸 <br/>
+> 네컷사진 찍을 때면 늘 포즈가 고민되지 않나요? <br/>
+PosePicker가 포즈 고민을 해결해 드릴게요! <br/>
 미리 포즈 고민할 필요 없이, 찍기 직전에 빠르고 재밌게 포즈를 추천해 주는 포즈피커를 이용해 보세요!
 
 <br/>
 
-<img align="right" width="400" src="https://github.com/pose-picker/.github/assets/75469131/fa9c1ed5-5c91-4e51-8b00-bd7ae4de95e7"/>
+<img align="right" width="400" src="https://github.com/pose-picker/.github/assets/75469131/1e23a8de-d331-41ba-bc7a-f2bc62f7de01"/>
 
 
 
@@ -34,7 +34,7 @@ PosePicker가 포즈 고민을 해결해 드릴게요! 📸 <br/>
 
 <br/>
 
-| 🎨 Design | 🖥 FrontEnd | ⌨️ BackEnd |
+| Design | FrontEnd | BackEnd |
 |:-:|:-:|:-:|
 | 이지영 | [seondal](https://github.com/seondal) | [olive-su](https://github.com/olive-su) |
 | 김수빈 | [guesung](https://github.com/guesung) | [leejw-lu](https://github.com/leejw-lu) |
