@@ -1,4 +1,4 @@
-<img align="left" width="150" src="https://github.com/pose-picker/.github/assets/75469131/8e67e03e-c157-4ab9-8c60-7b1e1c15bee3" />
+<img align="right" width="150" src="https://github.com/pose-picker/.github/assets/75469131/0c77c694-d01f-4fde-afe3-e863d434ebca" />
 
 <img height="30" src="https://github.com/pose-picker/.github/assets/75469131/87357edf-8a99-4d4e-88ce-afb48752e45e"/> <br/>
 ---
