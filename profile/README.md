@@ -1,4 +1,5 @@
 <img align="right" width="150" src="https://github.com/pose-picker/.github/assets/75469131/0c77c694-d01f-4fde-afe3-e863d434ebca" />
+<img align="left" width="150" src="https://github.com/pose-picker/.github/assets/75469131/012da976-4d52-45e9-abfc-fdd700b927be" />
 
 <img height="30" src="https://github.com/pose-picker/.github/assets/75469131/87357edf-8a99-4d4e-88ce-afb48752e45e"/> <br/>
 ---
@@ -16,21 +17,21 @@
 
 
 
-**✨ PosePick** <br/>
+✨ <br/>
 *“빨리 빨리! 우리 무슨 포즈로 찍을래?”* <br/>
-시간 없을 땐, 포즈픽으로 빠르게 랜덤 포즈를 추천받아보세요.
+시간 없을 땐 **포즈픽**으로 빠르게 랜덤 포즈를 추천받아보세요.
 
 <br/>
 
-**🃏 PoseTalk** <br/>
+🃏 <br/>
 *“이미 있는 포즈는 시시해, 우리만의 특별한 포즈가 필요해!”* <br/>
-랜덤 제시어로 나만의 개성있는 포즈를 완성해보세요.
+**포즈톡**에서 뽑은 랜덤 제시어로 나만의 개성있는 포즈를 완성해보세요.
 
 <br/>
 
-**🎞 포즈피드** <br/>
+🎞 <br/>
 *“또 어떤 포즈가 있을까? 우리 이 포즈로 찍어볼까?”* <br/>
-포즈피드에서 특정한 상황을 빛내줄 포즈찾고, 친구한테 공유해보세요.
+**포즈피드**에서 특정한 상황을 빛내줄 포즈를 찾고, 친구한테 공유해보세요.
 
 <br/>
 
