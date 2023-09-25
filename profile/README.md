@@ -1,4 +1,4 @@
-<img height="30" src="https://github.com/pose-picker/.github/assets/75469131/87357edf-8a99-4d4e-88ce-afb48752e45e"/> <br/>
+<img height="30" src="https://github.com/pose-picker/.github/assets/75469131/87357edf-8a99-4d4e-88ce-afb48752e45e"/> &nbsp;
 ---
 *포토부스에서 고민하는 당신을 위한 포즈 추천 서비스, 포즈피커 🪄*
 
