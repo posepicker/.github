@@ -32,7 +32,7 @@
 
 <br/>
 
-| Design | FrontEnd | BackEnd |
-|:-:|:-:|:-:|
-| 이지영 | [seondal](https://github.com/seondal) | [olive-su](https://github.com/olive-su) |
-| 김수빈 | [guesung](https://github.com/guesung) | [leejw-lu](https://github.com/leejw-lu) |
+| Design | Web | Server | iOS |
+|:-:|:-:|:-:|:-:|
+| 이지영 | [seondal](https://github.com/seondal) | [olive-su](https://github.com/olive-su) | [Parkjju](https://github.com/Parkjju)  |
+| 김수빈 |  | [leejw-lu](https://github.com/leejw-lu) | |
