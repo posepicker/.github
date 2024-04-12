@@ -17,7 +17,7 @@
 
 <br/>
 
-| Design | Web | Server | iOS |
+| Design | Server | Web | iOS |
 |:-:|:-:|:-:|:-:|
-| 이지영 | [seondal](https://github.com/seondal) | [olive-su](https://github.com/olive-su) | [Parkjju](https://github.com/Parkjju)  |
-| 김수빈 |  | [leejw-lu](https://github.com/leejw-lu) | |
+| 이지영 | [olive-su](https://github.com/olive-su) | [seondal](https://github.com/seondal) | [Parkjju](https://github.com/Parkjju)  |
+| 김수빈 | [leejw-lu](https://github.com/leejw-lu) | | |
